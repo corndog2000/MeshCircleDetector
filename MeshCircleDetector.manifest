@@ -1,0 +1,13 @@
+{
+    "autodeskProduct": "Fusion",
+    "type": "addin",
+    "id": "MeshCircleDetector-v1",
+    "author": "Custom Add-in",
+    "description": {
+        "": "Detects circular features on mesh bodies near the mouse cursor and allows projecting them to sketches. Similar to circle detection in BambuStudio/OrcaSlicer."
+    },
+    "version": "1.0.0",
+    "runOnStartup": false,
+    "supportedOS": "windows|mac",
+    "editEnabled": true
+}
