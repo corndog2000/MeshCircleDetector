@@ -140,17 +140,3 @@ Ensure you have inserted a mesh body into your design. Regular solid bodies are 
 ### Performance issues
 - Large meshes (>100k triangles) may take several seconds to analyze
 - Consider using simpler meshes for initial testing
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit issues or pull requests.
-
-## License
-
-This project is released under the MIT License. See LICENSE file for details.
-
-## Acknowledgments
-
-- Inspired by the circle detection feature in BambuStudio and OrcaSlicer
-- Uses least-squares circle fitting algorithms
-- Built using the Fusion 360 API
