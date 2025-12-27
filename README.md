@@ -2,6 +2,8 @@
 
 A Fusion 360 add-in that detects circular features (holes, bosses, etc.) on mesh bodies and allows you to project them to sketches. This provides functionality similar to the circle detection feature found in BambuStudio and OrcaSlicer.
 
+<img width="1617" height="1103" alt="example" src="https://github.com/user-attachments/assets/0b39b478-0294-4df5-9510-8bab75e7e077" />
+
 ## Features
 
 - **Automatic Circle Detection**: Analyzes mesh bodies to find circular features by detecting boundary edge loops and fitting circles
